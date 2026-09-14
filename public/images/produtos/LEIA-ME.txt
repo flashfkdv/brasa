@@ -1,0 +1,21 @@
+Coloque aqui as fotos dos produtos, com o nome de arquivo exato usado
+no campo "img" de cada item em src/App.jsx (bloco PRODUCTS).
+
+Arquivos esperados nesta versão de exemplo:
+- combo-brasa.jpg
+- combo-fumaca.jpg
+- combo-carvao.jpg
+- smash-classico.jpg
+- costela-desfiada.jpg
+- duplo-cheddar.jpg
+- fritas-rusticas.jpg
+- onion-rings.jpg
+- refrigerante-lata.jpg
+- suco-natural.jpg
+
+Recomendado: .jpg, formato quadrado ou 4:3, mínimo 800x800px,
+comprimidas (use squoosh.app ou tinypng.com antes de subir, pra não
+pesar o carregamento do site).
+
+Enquanto um arquivo não existir aqui, o card mostra um placeholder
+com o ícone de chama — nada quebra.
